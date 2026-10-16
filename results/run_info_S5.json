@@ -1,0 +1,16 @@
+{
+  "scenario": "S5",
+  "version": "v16e",
+  "pop": 100,
+  "gen": 100,
+  "seed": 42,
+  "n_simulations": 11633,
+  "failed_evaluations": 0,
+  "runtime_s": 655.6,
+  "python": "3.13.5",
+  "wntr": "1.4.0rc3",
+  "pymoo": "0.6.1.5",
+  "numpy": "2.4.2",
+  "pandas": "3.0.1",
+  "date": "2026-10-15 12:12:33"
+}

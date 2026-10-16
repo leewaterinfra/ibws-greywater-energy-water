@@ -1,0 +1,9 @@
+# Archived results (results/) were produced with Python 3.13.5, wntr 1.4.0rc3
+# (as reported by wntr.__version__), pymoo 0.6.1.5, numpy 2.4.2, and pandas 3.0.1;
+# see results/run_info_*.json. The code also runs with wntr 1.5.0 and pymoo 0.6.2.
+wntr>=1.4,<2
+pymoo>=0.6.1,<0.7
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+pyswmm>=2.0          # drainage/ only; archived drainage results: pyswmm 2.2.0
